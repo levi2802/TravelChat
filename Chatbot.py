@@ -1,7 +1,3 @@
-pip install gradio
-pip install openai
-
-
 import gradio as gr
 import openai
 
